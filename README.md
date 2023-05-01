@@ -16,6 +16,7 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 * React.js
 * Node.js
 * Next.js
+* TypeScript
 
 # 
 🪴- Tech Stack
