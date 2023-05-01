@@ -21,6 +21,7 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 # 
 🪴- Tech Stack
 <p align="center" margin="30px">
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width='6%'></span>
