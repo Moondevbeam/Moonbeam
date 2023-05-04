@@ -8,7 +8,7 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 
 #
 💻 - Working on:
- * My personal website (React)
+ * My personal website (React) => Next.js
 
 
 #  
