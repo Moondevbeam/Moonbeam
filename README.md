@@ -8,7 +8,7 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 
 #
 💻 - Working on:
- * My personal website (React) => Next.js
+ * My personal website (Next.js)
  * moonWeather
  * moonAnimeList
  * MoonFire (DnD)
