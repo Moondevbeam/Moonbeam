@@ -8,10 +8,8 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 
 #
 💻 - Working on:
- * My personal website (Next.js)
- * moonWeather
- * moonAnimeList
- * MoonFire (DnD)
+ * <a href="https://www.notjustanalytics.com">Not Just Analytics</a>
+ * My Website and small projects
 
 
 #  
@@ -27,7 +25,6 @@ You can view my website, on my repositories, feel free to give me suggestions, I
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width='6%'></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='6%'></span>
