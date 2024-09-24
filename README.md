@@ -8,7 +8,7 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 
 #
 💻 - Working on:
- * <a href="https://www.notjustanalytics.com">Not Just Analytics</a>
+ * <a href="https://www.notjustanalytics.com">Not Just Analytics 🚀</a>
  * My Website and small projects
 
 
