@@ -9,7 +9,7 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 #
 💻 - Working on:
  * <a href="https://www.moonmind.dev">Moonmind.dev</a> 🚀
- * * <a href="https://www.pensa.la">pensa.la</a> 💌
+ * <a href="https://www.pensa.la">pensa.la</a> 💌
  * My Website and small projects
 
 
