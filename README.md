@@ -6,7 +6,7 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 
 * **[Moonmind.dev](https://www.moonmind.dev) 🚀**
 * **[pensa.la](https://www.pensa.la) 💌**
-* **[moonwsx](https://www.moonbeamws.dev) 💻**
+* **[moonwsx.dev](https://www.moonbeamws.dev) 💻**
 
 
 ## 🌱 Currently Learning:
@@ -26,7 +26,9 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='6%' alt="VS Code">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='6%' alt="Bootstrap">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='6%' alt="Git">
-  </p>
+  <img src="https://avatars.githubusercontent.com/u/105317560?s=200&v=4" width='6%' alt="Cursor AI">
+  <img src="https://avatars.githubusercontent.com/u/86947147?s=200&v=4" width='6%' alt="Raycast">
+</p>
 
 ## My Productivity Arsenal 🛠️
 
