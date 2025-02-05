@@ -8,7 +8,8 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 
 #
 💻 - Working on:
- * <a href="https://www.notjustanalytics.com">Not Just Analytics</a> 🚀
+ * <a href="https://www.moonmind.dev">Moonmind.dev</a> 🚀
+ * * <a href="https://www.pensa.la">pensa.la</a> 💌
  * My Website and small projects
 
 
@@ -18,6 +19,8 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 * Node.js
 * Next.js
 * TypeScript
+* Unity
+* C#
 
 # 
 🪴- Tech Stack
