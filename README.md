@@ -1,36 +1,38 @@
-👋🏻 Hi there!
+# Moonbeam 🚀
 
-#
-My name is Matthew, Moonbeam for my internet friends. Since young age I've had love for technology and have been into IT world.
-I'm still learning like every developer in the world and I will never stop doing it. I decided to become a Web Developer and I am currently working on some projects.
-You can view my website, on my repositories, feel free to give me suggestions, I will appreciate a lot.
+Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web developer with a lifelong passion for technology. I love exploring new technologies and pushing my creative boundaries. I'm always learning and growing (aren't we all?), and I'm currently focused on building cool things for the web. I'd love for you to check out my projects and share your thoughts – your feedback is always welcome!
 
+## 💻 Current Projects:
 
-#
-💻 - Working on:
- * <a href="https://www.moonmind.dev">Moonmind.dev</a> 🚀
- * <a href="https://www.pensa.la">pensa.la</a> 💌
- * My Website and small projects
+* **[Moonmind.dev](https://www.moonmind.dev) 🚀**
+* **[pensa.la](https://www.pensa.la) 💌**
+* **Personal Website & Smaller Projects**
 
+## 🌱 Currently Learning:
 
-#  
-🤺- Learning:
-* Next.js
-* TypeScript
-* Unity
-* C#
+* Next.js -  Excited to explore its potential!
+* TypeScript -  Adding type safety to my code.
+* Unity & C# - Dipping my toes into game development!
 
-# 
-🪴- Tech Stack
-<p align="center" margin="30px">
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='6%'></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='6%'></span>
-</p>
+## 🛠️ Tech Stack:
 
-<!-- SVGs Provided by devicons -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='6%' alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='6%' alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='6%' alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width='6%' alt="npm">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width='6%' alt="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='6%' alt="VS Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='6%' alt="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='6%' alt="Git">
+  </p>
+
+## My Productivity Arsenal 🛠️
+
+To stay productive and efficient, I rely on these awesome tools:
+
+* **Raycast:** This amazing launcher helps me automate repetitive tasks, search for anything instantly, and manage my applications like a pro.
+
+* **Cursor.ai:** With Cursor.ai, I can effortlessly find answers to complex questions, generate code snippets, and boost my research process. It's like having a super-smart assistant at my fingertips!
+
+## Let's Connect!
