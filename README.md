@@ -15,8 +15,6 @@ You can view my website, on my repositories, feel free to give me suggestions, I
 
 #  
 🤺- Learning:
-* React.js
-* Node.js
 * Next.js
 * TypeScript
 * Unity
