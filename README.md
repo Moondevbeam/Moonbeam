@@ -18,16 +18,9 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 ## 🛠️ Tech Stack:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='6%' alt="TypeScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='6%' alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='6%' alt="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width='6%' alt="npm">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width='6%' alt="Next.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width='6%' alt="VS Code">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='6%' alt="Bootstrap">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width='6%' alt="Git">
-  <img src="https://www.cursor.so/logo.svg" width='6%' alt="Cursor AI">
-  <img src="https://cdn.jsdelivr.net/npm/@raycast/icons@latest/icons/raycast-logo.svg" width='6%' alt="Raycast">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,apple,bootstrap, cs, discord, electron, figma, firebase, html, nextjs ,npm,react, supabase, tailwind, ts, js, vercel, vite" />
+  </a>
 </p>
 
 ## My Productivity Arsenal 🛠️
