@@ -17,36 +17,36 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 
 ## 🛠️ Tech Stack:
 
-<table align="center">
-  <tr>
-    <th>🛠 Tools & DevOps</th>
-    <td><img src="https://skillicons.dev/icons?i=git,vercel,npm" /></td>
-  </tr>
-  <tr>
-    <th>📱 Frontend</th>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" /></td>
-  </tr>
-  <tr>
-    <th>⚙️ Backend & Database</th>
-    <td><img src="https://skillicons.dev/icons?i=supabase,firebase" /></td>
-  </tr>
-  <tr>
-    <th>💾 Languages</th>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,cs" /></td>
-  </tr>
-  <tr>
-    <th>🎨 Design & UI/UX</th>
-    <td><img src="https://skillicons.dev/icons?i=figma" /></td>
-  </tr>
-  <tr>
-    <th>📦 Frameworks & Tooling</th>
-    <td><img src="https://skillicons.dev/icons?i=electron,unity" /></td>
-  </tr>
-  <tr>
-    <th>🔗 Other Tools</th>
-    <td><img src="https://skillicons.dev/icons?i=apple,discord" /></td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <div>
+    <h3>🛠 Tools & DevOps</h3>
+    <img src="https://skillicons.dev/icons?i=git,vercel,npm" />
+  </div>
+  <div>
+    <h3>📱 Frontend</h3>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" />
+  </div>
+  <div>
+    <h3>⚙️ Backend & Database</h3>
+    <img src="https://skillicons.dev/icons?i=supabase,firebase" />
+  </div>
+  <div>
+    <h3>💾 Languages</h3>
+    <img src="https://skillicons.dev/icons?i=ts,js,cs" />
+  </div>
+  <div>
+    <h3>🎨 Design & UI/UX</h3>
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </div>
+  <div>
+    <h3>📦 Frameworks & Tooling</h3>
+    <img src="https://skillicons.dev/icons?i=electron,unity" />
+  </div>
+  <div>
+    <h3>🔗 Other Tools</h3>
+    <img src="https://skillicons.dev/icons?i=apple,discord" />
+  </div>
+</div>
 
 
 ## My Productivity Arsenal 🛠️
