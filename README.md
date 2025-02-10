@@ -19,7 +19,7 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,apple,bootstrap,cs,unity,discord,electron,figma,firebase,html,nextjs,npm,react,supabase,tailwind,ts,js,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=git,apple,cs,unity,discord,electron,figma,firebase,html,nextjs,npm,react,supabase,tailwind,ts,js,vercel,vite" />
   </a>
 </p>
 
