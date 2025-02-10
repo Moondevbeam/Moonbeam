@@ -21,31 +21,31 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
   <table>
     <tr>
       <td align="center"><strong>🛠 Tools & DevOps</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=git,vercel,npm" width="100" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,vercel,npm" style="width: 120px; height: auto;" /></td>
     </tr>
     <tr>
       <td align="center"><strong>📱 Frontend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" width="100" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" style="width: 120px; height: auto;" /></td>
     </tr>
     <tr>
       <td align="center"><strong>⚙️ Backend & Database</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=supabase,firebase" width="100" /></td>
+      <td><img src="https://skillicons.dev/icons?i=supabase,firebase" style="width: 120px; height: auto;" /></td>
     </tr>
     <tr>
       <td align="center"><strong>💾 Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=ts,js,cs" width="100" /></td>
+      <td><img src="https://skillicons.dev/icons?i=ts,js,cs" style="width: 120px; height: auto;" /></td>
     </tr>
     <tr>
       <td align="center"><strong>🎨 Design & UI/UX</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=figma" width="100" /></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" style="width: 120px; height: auto;" /></td>
     </tr>
     <tr>
       <td align="center"><strong>📦 Frameworks & Tooling</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=electron,unity" width="100" /></td>
+      <td><img src="https://skillicons.dev/icons?i=electron,unity" style="width: 120px; height: auto;" /></td>
     </tr>
     <tr>
       <td align="center"><strong>🔗 Other Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=apple,discord" width="100" /></td>
+      <td><img src="https://skillicons.dev/icons?i=apple,discord" style="width: 120px; height: auto;" /></td>
     </tr>
   </table>
 </div>
