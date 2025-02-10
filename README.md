@@ -18,50 +18,36 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 ## 🛠️ Tech Stack:
 
 <div align="center">
-  <style>
-    .tech-stack {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 16px;
-      max-width: 800px;
-      margin: auto;
-    }
-    .tech-item {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      background: #1e293b;
-      padding: 16px;
-      border-radius: 8px;
-      color: #fff;
-      font-weight: bold;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    .tech-item img {
-      width: 48px;
-      height: 48px;
-      margin-bottom: 8px;
-    }
-  </style>
-  <div class="tech-stack">
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=git" /><span>Git</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=vercel" /><span>Vercel</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=npm" /><span>NPM</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=nextjs" /><span>Next.js</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=react" /><span>React</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=tailwind" /><span>Tailwind</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=vite" /><span>Vite</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=supabase" /><span>Supabase</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=firebase" /><span>Firebase</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=ts" /><span>TypeScript</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=js" /><span>JavaScript</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=cs" /><span>C#</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=figma" /><span>Figma</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=electron" /><span>Electron</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=unity" /><span>Unity</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=apple" /><span>Apple</span></div>
-    <div class="tech-item"><img src="https://skillicons.dev/icons?i=discord" /><span>Discord</span></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center"><strong>🛠 Tools & DevOps</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=git,vercel,npm" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📱 Frontend</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>⚙️ Backend & Database</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=supabase,firebase" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>💾 Languages</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=ts,js,cs" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎨 Design & UI/UX</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=figma" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📦 Frameworks & Tooling</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=electron,unity" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🔗 Other Tools</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=apple,discord" /></td>
+    </tr>
+  </table>
 </div>
 
 
