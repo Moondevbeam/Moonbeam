@@ -17,36 +17,36 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 
 ## 🛠️ Tech Stack:
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div>
-    <h3>🛠 Tools & DevOps</h3>
-    <img src="https://skillicons.dev/icons?i=git,vercel,npm" />
-  </div>
-  <div>
-    <h3>📱 Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" />
-  </div>
-  <div>
-    <h3>⚙️ Backend & Database</h3>
-    <img src="https://skillicons.dev/icons?i=supabase,firebase" />
-  </div>
-  <div>
-    <h3>💾 Languages</h3>
-    <img src="https://skillicons.dev/icons?i=ts,js,cs" />
-  </div>
-  <div>
-    <h3>🎨 Design & UI/UX</h3>
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </div>
-  <div>
-    <h3>📦 Frameworks & Tooling</h3>
-    <img src="https://skillicons.dev/icons?i=electron,unity" />
-  </div>
-  <div>
-    <h3>🔗 Other Tools</h3>
-    <img src="https://skillicons.dev/icons?i=apple,discord" />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="150"><strong>🛠 Tools & DevOps</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,vercel,npm" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>📱 Frontend</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>⚙️ Backend & Database</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase,firebase" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>💾 Languages</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,cs" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>🎨 Design & UI/UX</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>📦 Frameworks & Tooling</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=electron,unity" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><strong>🔗 Other Tools</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=apple,discord" /></td>
+  </tr>
+</table>
 
 
 ## My Productivity Arsenal 🛠️
