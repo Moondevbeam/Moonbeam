@@ -17,11 +17,37 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 
 ## 🛠️ Tech Stack:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,apple,cs,unity,discord,electron,figma,firebase,html,nextjs,npm,react,supabase,tailwind,ts,js,vercel,vite" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <th>🛠 Tools & DevOps</th>
+    <td><img src="https://skillicons.dev/icons?i=git,vercel,npm" /></td>
+  </tr>
+  <tr>
+    <th>📱 Frontend</th>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite" /></td>
+  </tr>
+  <tr>
+    <th>⚙️ Backend & Database</th>
+    <td><img src="https://skillicons.dev/icons?i=supabase,firebase" /></td>
+  </tr>
+  <tr>
+    <th>💾 Languages</th>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,cs" /></td>
+  </tr>
+  <tr>
+    <th>🎨 Design & UI/UX</th>
+    <td><img src="https://skillicons.dev/icons?i=figma" /></td>
+  </tr>
+  <tr>
+    <th>📦 Frameworks & Tooling</th>
+    <td><img src="https://skillicons.dev/icons?i=electron,unity" /></td>
+  </tr>
+  <tr>
+    <th>🔗 Other Tools</th>
+    <td><img src="https://skillicons.dev/icons?i=apple,discord" /></td>
+  </tr>
+</table>
+
 
 ## My Productivity Arsenal 🛠️
 
