@@ -11,8 +11,8 @@ Hey there! I'm Matthew, but my internet friends call me Moonbeam. I'm a web deve
 
 ## 🌱 Currently Learning:
 
-* Next.js -  Excited to explore its potential!
-* TypeScript -  Adding type safety to my code.
+* Next.js
+* TypeScript
 * Unity & C# - Dipping my toes into game development!
 
 ## 🛠️ Tech Stack:
